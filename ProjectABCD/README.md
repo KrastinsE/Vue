@@ -1,6 +1,7 @@
 # Project name - Hello-world
-# Project title - Market View
-# Info - Built in Vue.js, used Yarn
+## Project title - Market View
+### Info - Built in Vue.js, used Yarn
+
 
 ## Project setup
 ```
@@ -9,7 +10,7 @@ Open Terminal:
   - yarn global add @vue/cli
 ```
 
-### cd in to /28Stone-home-task
+### cd in to /ProjectABCD
 
 #### Compile Project
 ```
